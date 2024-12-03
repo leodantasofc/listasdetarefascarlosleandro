@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    padding: 360px;
+    background-image: url('https://conceitos.com/wp-content/uploads/tecnologia/Programacao.jpg');
+    background-size: cover; 
+    background-position: center center;
+  }
+  
+  h1 {
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    background-color: #ffffff;
+    width: none;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  
+  }
+  
+  button {
+    background-color: #003f69;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  
+  }
+  
+  button:hover {
+    background-color: #0f6096;
+  
+  }
